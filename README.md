@@ -15,3 +15,7 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 ### Typescript
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+
+
+https://nft-game-web3dev.joao-vitorvi282.repl.co/
+https://replit.com/@Joao-VitorVi282/nft-game-web3dev#src/App.jsx
